@@ -6,7 +6,7 @@ next: development-server
 
 ## Prerequisites
 
-* [Node.js](https://nodejs.org/en/) (8.0.0+)
+* [Node.js](https://nodejs.org/en/) (8.0.0+) yo
 * [Yarn](https://yarnpkg.com) (Optional. You can still use `npm` if you want, but this is for your own sanity.)
 
 ## Initializing the Project
