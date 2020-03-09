@@ -26,7 +26,7 @@ There are three objectives in this course. By achieving these three objectives, 
 
 In Chord Creation, you're going to learn how to play a chord progression, the foundation of all music.
 
-### Objective 2: Melody Creation
+#### Objective 2: Melody Creation
 
 In Melody Creation, you're going to learn how to play different melody remixes on top of the chord progression you've just created.
 
