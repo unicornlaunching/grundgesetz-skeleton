@@ -53,7 +53,7 @@ const PageTemplate: React.SFC<PageTemplateProps> = ({ data }) => {
       <DocsWrapper>
         <Container>
           <DocsHeader>
-            <h1>Welcome to Grundgesetz!</h1>
+            <h1>Global Marketing (MRK 460)</h1>
           </DocsHeader>
           <MarkdownContent html={markdownRemark.html} />
         </Container>
