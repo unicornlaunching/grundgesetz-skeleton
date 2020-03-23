@@ -9,6 +9,24 @@ title:
 
 ## Goal
 
+# Title
+## SubTitle
+### Subheading
+#### SubSubheading
+##### Five
+###### Six
+####### Seven
+
+- **Bullet One
+- **Bullet Two
+- **Bullet Three
+
+**Highlight**
+
+`permalink`
+
+[Netlify](https://www.netlify.com/)
+
 ### Just Your Docs
 
 Grundgesetz is set up for you to get up and running straight away. We know that writing proper documentation often takes a long time, so we aim to create this tool to standardise your documentation format. With Grundgesetz, publishing a documentation takes three basic steps.
