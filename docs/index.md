@@ -6,7 +6,7 @@ title:
 
 [![What's Wrong With The Way Business Is Taught?](http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg)](http://www.youtube.com/watch?v=S6sh-wOC0BE "What's Wrong With The Way Business Is Taught?")
 
-<img src="http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg" alt="drawing" width="100%"/>(http://www.youtube.com/watch?v=S6sh-wOC0BE "What's Wrong With The Way Business Is Taught?")
+<a href= "http://www.youtube.com/watch?v=S6sh-wOC0BE"><img src="http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
 
 ## Goal
 
