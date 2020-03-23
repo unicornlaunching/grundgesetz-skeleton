@@ -4,6 +4,8 @@ id: index
 title: 
 ---
 
+https://youtu.be/S6sh-wOC0BE
+
 ## Goal
 
 **If you've never played music before and are intimidated by music theory, you've come to the right place.**
