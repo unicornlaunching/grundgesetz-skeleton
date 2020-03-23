@@ -4,7 +4,7 @@ id: index
 title: 
 ---
 
-[![What's WRONG With The Way Business Is Taught Today?](http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg)](http://www.youtube.com/watch?v=S6sh-wOC0BE "What's WRONG With The Way Business Is Taught Today?")
+[![What's WRONG With The Way Business Is Taught Today?](http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg){width="100%"}](http://www.youtube.com/watch?v=S6sh-wOC0BE "What's WRONG With The Way Business Is Taught Today?")
 
 
 ## Goal
