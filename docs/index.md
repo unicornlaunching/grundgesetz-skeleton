@@ -4,7 +4,7 @@ id: index
 title: 
 ---
 
-[!embed?max_width=100%&max_height=100%[What's WRONG With The Way Business Is Taught Today?](http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg)](http://www.youtube.com/watch?v=S6sh-wOC0BE "What's WRONG With The Way Business Is Taught Today?"){width="100%"}
+[!][What's WRONG With The Way Business Is Taught Today?](http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg)](http://www.youtube.com/watch?v=S6sh-wOC0BE "What's WRONG With The Way Business Is Taught Today?"){width="100%"}
 
 <figure class="video_container">
 <iframe src="http://www.youtube.com/watch?v=S6sh-wOC0BE" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
