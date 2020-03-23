@@ -4,7 +4,7 @@ id: index
 title: 
 ---
 
-https://youtu.be/S6sh-wOC0BE
+[![](http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg)](http://www.youtube.com/watch?v=S6sh-wOC0BE "")
 
 ## Goal
 
