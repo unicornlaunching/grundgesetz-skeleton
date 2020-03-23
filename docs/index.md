@@ -4,99 +4,11 @@ id: index
 title: 
 ---
 
+## WHAT'S WRONG WITH THE WAY BUSINESS IS TAUGHT TODAY? (VIDEO)
+
 [![](http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg)](http://www.youtube.com/watch?v=S6sh-wOC0BE "")
 
 ## Goal
-
-**If you've never played music before and are intimidated by music theory, you've come to the right place.**
-
-The goal of this course is to teach you how to play music, even if you've never played music or an instrument in your life.
-
-To get the most out of this course, bring your favourite song. This course will teach you how to write and perform your favourite song alone or with a full band in a concert or a talent show.
-
-
-## Prerequisites and Preparation:
-
-Children as young as two years have been able to play steel pan effectively. 
-
-**No prior music training, prerequisites or preparation is required.**
-
-
-## Objectives
-
-**There are three objectives in this course.**
-
-By achieving these three objectives, you'll be well on your way to playing and creating music.
-
-#### Objective 1: Chord Creation
-
-In **Chord Creation**, you're going to learn how to play a chord progression, the foundation of all music.
-
-#### Objective 2: Melody Creation
-
-In **Melody Creation**, you're going to learn how to play different melody remixes on top of the chord progression you've just created.
-
-#### Objective 3: Music Creation
-
-In **Music Creation**, you're going to learn how to create new chord progressions and melodies.
-
-By this time, you'll already know how to play your favourite song alone or with a full band.
-
-
-## Course Curriculum
-
-The **course curriculum** are broken down by Objectives. Each Objective builds upon the previous Objective.
-
-#### Objective: Chord Creation I
-
-**Lesson One:** From Notes to Chords
-**Lesson Two:** From Notes to Chords to Triads
-
-#### Objective: Melody Creation I
-
-**Lesson Three:** From Notes to Melody
-**Lesson Four:** From Notes to Chromatic Scale
-
-#### Objective: Chord Creation II
-
-**Lesson Five:** From Notes to Chords to Triads to Parallelograms (Maj7 m7 Dom7)
-**Lesson Six:** From Notes to Chords to Passing Chords (Dim Aug Sus)
-
-#### Objective: Music Creation
-
-**Lesson Seven:** From Notes to Melody to Improvisation
-**Lesson Eight:** From Good To Great
-
-#### Objective 1: Bonus: 
-
-**Recording Your Own Music** 
-**Uploading Your Own Music To Spotify**
-
-
-## Textbook & Materials
-
-Click here for the Slides for this course.
-
-If you don't have a steel pan, please head on over to steelpantherapy.com.
-
-Expand Your Learning with:
-Signals Music Studio
-Pianochord.org
-
-
-## Teacher
-
-My name is Michael Jagdeo. I've been playing steel pan for 20 years. Right now, I'm a volunteer teacher at three schools in the Jane & Finch area of Toronto.
-
-When I'm not teaching steel pan, I'm a Headhunter Launching Startups with [UnicornLaunching.com](http://www.unicornlaunching.com). When I'm not teaching steel pan or headhunting, I'm pursuing a [PhD](http://www.twitter.com).
-
-
-
-
-
-
-
-
 
 ### Just Your Docs
 
