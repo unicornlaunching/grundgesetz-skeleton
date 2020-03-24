@@ -39,7 +39,8 @@ Upon successful completion of this subject the student will be able to:
 - Manage the use of time and other resources to complete projects.
 - Take responsibility for one's own actions, decisions, and consequences.
 
-
+## Turn on Subtitles & Translations
+<img src="https://i.imgur.com/pUYmzMA.gif" alt="Turn On Subtitles" width="100%"/>
 
 ## Goal
 
