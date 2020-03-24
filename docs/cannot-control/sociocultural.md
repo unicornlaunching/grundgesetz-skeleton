@@ -1,4 +1,9 @@
-## Sociocultural Environment
+---
+id: sociocultural
+title: Sociocultural Environment
+prev: economic
+next: technological
+---
 
 <a href= "http://www.youtube.com/watch?v=o_LOTHRrX0A"><img src="http://img.youtube.com/vi/o_LOTHRrX0A/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
 
