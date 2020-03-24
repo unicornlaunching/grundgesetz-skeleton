@@ -1,6 +1,6 @@
 ## Technological Environment
 
-<a href= "https://www.youtube.com/watch?v=YX8HJdj8tBo"><img src="http://img.youtube.com/vi/o_LOTHRrX0A/0.jpg" alt="Technological Environment" width="100%"/></a>
+<a href= "https://www.youtube.com/watch?v=YX8HJdj8tBo"><img src="http://img.youtube.com/vi/YX8HJdj8tBo/0.jpg" alt="Technological Environment" width="100%"/></a>
 
 ### When most people think of the Technological environment the first thing that comes to mind is whether or not they "have the Internet". This is only one part of the world of business. 
 
