@@ -1,3 +1,10 @@
+---
+id: plr
+title: Political
+prev: overview
+next: economic
+---
+
 ## The Political Legal & Regulatory Environment
 <a href= "https://www.youtube.com/watch?v=9Dj_9O8T53o "><img src="http://img.youtube.com/vi/9Dj_9O8T53o/0.jpg" alt="The Fulcrum" width="100%"/></a>
 
