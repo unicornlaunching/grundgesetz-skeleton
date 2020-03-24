@@ -3,7 +3,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Global Marketing (MRK460)',
-    sidebarTitle: 'Global Marketing (MRK 460)',
+    sidebarTitle: 'Global Marketing (MRK460)',
     description: 'Zero-configuration documentation builder, powered by Gatsby.',
     siteUrl: 'https://grundgesetz-skeleton.netlify.com',
     keywords: 'gatsbyjs, gatsby, documentation, sample project',
