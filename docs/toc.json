@@ -14,7 +14,7 @@
       },
       {
       "id": "sociocultural",
-      "slug": "/cannot-control/sociocultural",
+      "slug": "/cannot-control/sociocultural/",
       "title": "Sociocultural Environment"
       },      
       {
@@ -23,24 +23,14 @@
         "title": "Technological Environment"
       },      
       {
-        "id": "deploying",
-        "slug": "/getting-started/deploying/",
-        "title": "Technological Environment"
+        "id": "competitive",
+        "slug": "/cannot-control/competitive/",
+        "title": "Competitive Environment"
       },      
        {
-        "id": "deploying",
-        "slug": "/getting-started/deploying/",
-        "title": "Competitive Environment"
-      },
-        {
-        "id": "deploying",
-        "slug": "/getting-started/deploying/",
-        "title": "Geographic Environment"
-      },
-      {
-        "id": "deploying",
-        "slug": "/getting-started/deploying/",
-        "title": "Prediction"
+        "id": "geographic",
+        "slug": "/cannot-control/geographic/",
+        "title": "Geographic & Physical Environment"
       }
     ]
   },
