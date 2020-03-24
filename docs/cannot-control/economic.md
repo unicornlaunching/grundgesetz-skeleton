@@ -1,3 +1,10 @@
+---
+id: economic
+title: Economic Environment
+prev: plr
+next: sociocultural
+---
+
 <a href= "http://www.youtube.com/watch?v=BDNh1Ps29mQ"><img src="http://img.youtube.com/vi/BDNh1Ps29mQ/0.jpg" alt="State VS Bitcoin" width="100%"/></a>
 ### In many countries, the economic / financial environment is heavily influenced by the political environment in the context of government rules and regulations as to how businesses make money, as well as how businesses are taxed.
 ### The Economic / Financial environment includes considerations such as the:
