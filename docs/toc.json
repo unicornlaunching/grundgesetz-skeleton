@@ -4,37 +4,37 @@
     "items": [
       {
         "id": "overview",
-        "slug": "/cannot-control/overview/",
+        "slug": "/cannot-control/overview",
         "title": "Overview"
       },
       {
         "id": "plr",
-        "slug": "/cannot-control/plr/",
+        "slug": "/cannot-control/plr",
         "title": "Political Legal & Regulatory Environment"
       },
       {
       "id": "sociocultural",
-      "slug": "/cannot-control/sociocultural/",
+      "slug": "/cannot-control/sociocultural",
       "title": "Sociocultural Environment"
       },      
       {
         "id": "technological",
-        "slug": "/cannot-control/technological/",
+        "slug": "/cannot-control/technological",
         "title": "Technological Environment"
       },      
       {
         "id": "competitive",
-        "slug": "/cannot-control/competitive/",
+        "slug": "/cannot-control/competitive",
         "title": "Competitive Environment"
       },      
        {
         "id": "geographic",
-        "slug": "/cannot-control/geographic/",
+        "slug": "/cannot-control/geographic",
         "title": "Geographic & Physical Environment"
       },
        {
-        "id": "Prediction",
-        "slug": "/cannot-control/prediction/",
+        "id": "prediction",
+        "slug": "/cannot-control/prediction",
         "title": "Predicting PWS & JBTD"
       }
     ]
