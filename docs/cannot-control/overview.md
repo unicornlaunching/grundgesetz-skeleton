@@ -2,7 +2,7 @@
 
 <a href= "http://www.youtube.com/watch?v=flj1rpx53yU"><img src="http://img.youtube.com/vi/flj1rpx53yU/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
 
-<a href= "http://img.youtube.com/vi/yZpmtfLxXyM/0.jpg"><img src="http://www.youtube.com/watch?v=yZpmtfLxXyM" alt="The Things You Can Control vs. The Things You Can't Control" width="100%"/></a>
+<a href= "http://www.youtube.com/watch?v=yZpmtfLxXyM"><img src="http://img.youtube.com/vi/yZpmtfLxXyM/0.jpg" alt="The Things You Can Control vs. The Things You Can't Control" width="100%"/></a>
 
 ## Learning Objectives
 The objectives for this unit are to help the reader understand:
