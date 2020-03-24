@@ -36,6 +36,11 @@
         "id": "deploying",
         "slug": "/getting-started/deploying/",
         "title": "Geographic Environment"
+      },
+      {
+        "id": "deploying",
+        "slug": "/getting-started/deploying/",
+        "title": "Prediction"
       }
     ]
   },
