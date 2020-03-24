@@ -1,5 +1,5 @@
 ---
-id: plr
+id: political
 title: The Political Legal & Regulatory Environment
 prev: overview
 next: economic
