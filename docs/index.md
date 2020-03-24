@@ -31,6 +31,9 @@ Upon successful completion of this subject the student will be able to:
 - Identify sources of competitive advantage in a global marketing context.
 - Demonstrate effective and professional communication skills, both verbal and written, by the on-time submission of reports and class presentations.
 - Develop a business plan that meets stated objectives and that takes into account the major forces at work in the global marketing environment
+
+<a href= "https://youtu.be/BDNh1Ps29mQ"><img src="http://img.youtube.com/vi/BDNh1Ps29mQ/0.jpg" alt="State VS Bitcoin" width="100%"/></a>
+
 ## Essential Employability Skills
 - Communicate clearly, concisely and correctly in the written, spoken and visual form that fulfils the purpose and meets the needs of the audience.
 - Respond to written, spoken, or visual messages in a manner that ensures effective communication.
