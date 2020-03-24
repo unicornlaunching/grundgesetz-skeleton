@@ -2,6 +2,8 @@
 layout: home
 id: index
 title: WELCOME
+prev: project-structure
+next: writing-in-markdown
 ---
 
 <a href= "http://www.youtube.com/watch?v=S6sh-wOC0BE"><img src="http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
