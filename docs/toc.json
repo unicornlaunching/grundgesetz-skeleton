@@ -31,6 +31,11 @@
         "id": "geographic",
         "slug": "/cannot-control/geographic/",
         "title": "Geographic & Physical Environment"
+      },
+       {
+        "id": "Prediction",
+        "slug": "/cannot-control/prediction/",
+        "title": "Predicting PWS & JBTD"
       }
     ]
   },
