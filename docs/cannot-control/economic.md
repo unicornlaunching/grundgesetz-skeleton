@@ -1,7 +1,7 @@
 ---
 id: economic
 title: Economic Environment
-prev: plr
+prev: political
 next: sociocultural
 ---
 
