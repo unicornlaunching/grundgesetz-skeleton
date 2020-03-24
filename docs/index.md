@@ -49,5 +49,7 @@ Upon successful completion of this subject the student will be able to:
 
 [Overview](/cannot-control/overview)
 
+[Join the Linkedin Group](https://www.linkedin.com/groups/8660401/)
+
 **Highlight**
 `permalink`
