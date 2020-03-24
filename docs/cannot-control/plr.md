@@ -1,11 +1,10 @@
 ---
 id: plr
-title: 
+title: The Political Legal & Regulatory Environment
 prev: overview
 next: economic
 ---
 
-## The Political Legal & Regulatory Environment
 <a href= "https://www.youtube.com/watch?v=9Dj_9O8T53o "><img src="http://img.youtube.com/vi/9Dj_9O8T53o/0.jpg" alt="The Fulcrum" width="100%"/></a>
 
 ### The Political / Legal / Regulatory Environment is often a direct consequence of the political parties in power, which represents the popular opinion of the citizens of the region. 
