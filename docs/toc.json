@@ -1,26 +1,26 @@
 [
   {
-    "title": "Getting Started",
+    "title": "Cannot Control",
     "items": [
       {
         "id": "installation",
         "slug": "/getting-started/installation/",
-        "title": "Installation"
+        "title": "Overview"
       },
       {
         "id": "development-server",
         "slug": "/getting-started/development-server/",
-        "title": "Development Server"
+        "title": "Political Legal & Regulatory Environment"
       },
       {
         "id": "deploying",
         "slug": "/getting-started/deploying/",
-        "title": "Deploying"
+        "title": "Economic Environment"
       }
     ]
   },
   {
-    "title": "Writing",
+    "title": "Can Control",
     "items": [
       {
         "id": "project-structure",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "title": "Getting Started II",
+    "title": "Case Studies",
     "items": [
       {
         "id": "installation",
@@ -61,7 +61,25 @@
         "id": "deploying",
         "slug": "/getting-started/deploying/",
         "title": "Deploying"
-      }
+      },
+        {
+    "title": "Bonus: The EMBA",
+    "items": [
+      {
+        "id": "installation",
+        "slug": "/getting-started/installation/",
+        "title": "Installation"
+      },
+      {
+        "id": "development-server",
+        "slug": "/getting-started/development-server/",
+        "title": "Development Server"
+      },
+      {
+        "id": "deploying",
+        "slug": "/getting-started/deploying/",
+        "title": "Deploying"
+      }      
     ]
   }
 ]
