@@ -1,4 +1,9 @@
-## Geographic & Physical Environment
+---
+id: geographic
+title: Geographic & Physical Environment
+prev: competitive
+next: prediction
+---
 
 <a href= "https://www.youtube.com/watch?v=6CCvsyIGvwA&feature=youtu.be"><img src="http://img.youtube.com/vi/6CCvsyIGvwA/0.jpg" alt=" Fixing a Bad Marriage" width="100%"/></a>
 
