@@ -48,24 +48,24 @@
     "title": "Can Control",
     "items": [
       {
-        "id": "project-structure",
-        "slug": "/writing/project-structure/",
-        "title": "Project Structure"
+        "id": "4ps",
+        "slug": "/can-control/4ps",
+        "title": "Four Ps of Marketing"
       },
       {
-        "id": "table-of-contents",
-        "slug": "/writing/table-of-contents/",
-        "title": "Table of Contents"
+        "id": "gopst",
+        "slug": "/can-control/gopst",
+        "title": "Goals Objectives Plans Strategies Tactics"
       },
       {
-        "id": "writing-in-markdown",
-        "slug": "/writing/writing-in-markdown/",
-        "title": "Writing in Markdown"
+        "id": "opportunity-types",
+        "slug": "/can-control/opportunity-types",
+        "title": "Four Types of Marketing Opportunities"
       },
             {
-        "id": "writing-in-markdown",
-        "slug": "/writing/writing-in-markdown/",
-        "title": "Writing in Markdown2"
+        "id": "co-tms",
+        "slug": "/can-control/",
+        "title": "Three Company Orientations & Target Market Segmentation"
       }
     ]
   },
