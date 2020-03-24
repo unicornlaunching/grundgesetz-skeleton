@@ -1,5 +1,5 @@
 ---
-id: cs-metruns
+id: cs-mreturns
 title: Malthus Returns
 prev: cs-maa
 next: cs-cva
