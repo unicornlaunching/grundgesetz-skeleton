@@ -18,36 +18,26 @@ This subject introduces the major aspects of marketing in today's dynamic global
 One full credit
 ## Learning Outcomes
 Upon successful completion of this subject the student will be able to:
-- **Explain trends and differences in the global marketing environment in terms of economic, socio-cultural, political, legal and regulatory factors.
-- **Assess the impact of international trade agreements (e.g. NAFTA) and trade organizations (e.g. WTO) on the business opportunities of firms.
-- **Evaluate product adaptation strategies in international markets on the basis of a market situation analysis
-- **Identify the differences, and similarities, of marketing and advertising campaigns in international markets by comparing campaigns developed by global marketers.
-- **Develop an international marketing plan for a product or service
-- **Recommend an appropriate international market entry strategy for a selected domestic product.
-- **Identify sources of competitive advantage in a global marketing context.
-- **Demonstrate effective and professional communication skills, both verbal and written, by the on-time submission of reports and class presentations.
-- **Develop a business plan that meets stated objectives and that takes into account the major forces at work in the global marketing environment
+- Explain trends and differences in the global marketing environment in terms of economic, socio-cultural, political, legal and regulatory factors.
+- Assess the impact of international trade agreements (e.g. NAFTA) and trade organizations (e.g. WTO) on the business opportunities of firms.
+- Evaluate product adaptation strategies in international markets on the basis of a market situation analysis
+- Identify the differences, and similarities, of marketing and advertising campaigns in international markets by comparing campaigns developed by global marketers.
+- Develop an international marketing plan for a product or service
+- Recommend an appropriate international market entry strategy for a selected domestic product.
+- Identify sources of competitive advantage in a global marketing context.
+- Demonstrate effective and professional communication skills, both verbal and written, by the on-time submission of reports and class presentations.
+- Develop a business plan that meets stated objectives and that takes into account the major forces at work in the global marketing environment
 ## Essential Employability Skills
-- **Communicate clearly, concisely and correctly in the written, spoken and visual form that fulfils the purpose and meets the needs of the audience.
-- **Respond to written, spoken, or visual messages in a manner that ensures effective communication.
-- **Apply a systematic approach to solve problems.
-- **Use a variety of thinking skills to anticipate and solve problems.
-- **Locate, select, organize, and document information using appropriate technology and information systems.
-- **Analyze, evaluate, and apply relevant information from a variety of sources.
-- **Show respect for diverse opinions, values, belief systems, and contributions of others.
-- **Interact with others in groups or teams in ways that contribute to effective working relationships and the achievement of goals.
-- **Manage the use of time and other resources to complete projects.
-- **Take responsibility for one's own actions, decisions, and consequences.
-
-
-
-
-
-
-
-
-
-
+- Communicate clearly, concisely and correctly in the written, spoken and visual form that fulfils the purpose and meets the needs of the audience.
+- Respond to written, spoken, or visual messages in a manner that ensures effective communication.
+- Apply a systematic approach to solve problems.
+- Use a variety of thinking skills to anticipate and solve problems.
+- Locate, select, organize, and document information using appropriate technology and information systems.
+- Analyze, evaluate, and apply relevant information from a variety of sources.
+- Show respect for diverse opinions, values, belief systems, and contributions of others.
+- Interact with others in groups or teams in ways that contribute to effective working relationships and the achievement of goals.
+- Manage the use of time and other resources to complete projects.
+- Take responsibility for one's own actions, decisions, and consequences.
 
 
 
