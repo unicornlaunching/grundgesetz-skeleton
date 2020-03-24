@@ -1,4 +1,9 @@
-## Technological Environment
+---
+id: technological
+title: Technological Environment
+prev: sociocultural
+next: competitive
+---
 
 <a href= "https://www.youtube.com/watch?v=YX8HJdj8tBo"><img src="http://img.youtube.com/vi/YX8HJdj8tBo/0.jpg" alt="Technological Environment" width="100%"/></a>
 
