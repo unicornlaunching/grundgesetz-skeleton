@@ -8,7 +8,7 @@ next: political
 
 <a href= "http://www.youtube.com/watch?v=yZpmtfLxXyM"><img src="http://img.youtube.com/vi/yZpmtfLxXyM/0.jpg" alt="The Things You Can Control vs. The Things You Can't Control" width="100%"/></a>
 
-## Learning Objectives
+## Learning Objectivess
 The objectives for this unit are to help the reader understand:
 - the role played by each of the 6 environments in business  
 - that these 6 environments can in turn influence each other  
