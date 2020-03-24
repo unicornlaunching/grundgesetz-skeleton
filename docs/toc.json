@@ -3,8 +3,8 @@
     "title": "Cannot Control",
     "items": [
       {
-        "id": "installation",
-        "slug": "/getting-started/installation/",
+        "id": "overview",
+        "slug": "/cannot-control/overview/",
         "title": "Overview"
       },
       {
