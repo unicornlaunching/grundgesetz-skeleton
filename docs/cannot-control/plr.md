@@ -1,5 +1,5 @@
 ## The Political Legal & Regulatory Environment
-<a href= "http://www.youtube.com/watch?v=ODylqIe3a1I"><img src="http://img.youtube.com/vi/ODylqIe3a1I/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
+<a href= "https://www.youtube.com/watch?v=9Dj_9O8T53o "><img src="http://img.youtube.com/vi/9Dj_9O8T53o/0.jpg" alt="The Fulcrum" width="100%"/></a>
 
 ### The Political / Legal / Regulatory Environment is often a direct consequence of the political parties in power, which represents the popular opinion of the citizens of the region. 
 
