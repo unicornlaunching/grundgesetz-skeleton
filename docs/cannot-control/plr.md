@@ -1,6 +1,6 @@
 ---
 id: plr
-title: Political
+title: 
 prev: overview
 next: economic
 ---
