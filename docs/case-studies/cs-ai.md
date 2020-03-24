@@ -1,7 +1,7 @@
 ---
 id: cs-ai
 title: At Our Wits End With AI
-prev: cs-cs-mreturns
+prev: cs-mreturns
 next: cs-fabd
 ---
 
