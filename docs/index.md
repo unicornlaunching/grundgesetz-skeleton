@@ -8,7 +8,8 @@ next: writing-in-markdown
 
 <a href= "http://www.youtube.com/watch?v=S6sh-wOC0BE"><img src="http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
 
-<a href= "https://www.youtube.com/watch?v=ODylqIe3a1I"><img src="http://img.youtube.com/vi/ODylqIe3a1I/0.jpg" alt="CASE STUDY: How They REALLY BUILT the PYRAMIDS" width="100%"/></a>
+## Turn on Subtitles & Translations
+<img src="https://i.imgur.com/pUYmzMA.gif" alt="Turn On Subtitles" width="100%"/>
 
 ## Subject Title
 Global Marketing
@@ -16,6 +17,9 @@ Global Marketing
 This subject introduces the major aspects of marketing in today's dynamic global environment, with an emphasis on the analysis of global markets. The subject considers both multinational and global marketing strategies, including the impact of marketing in "foreign" markets on product design and specifications, promotion and advertising tactics, pricing and distribution strategies. The focus of this subject is learning how to solve marketing problems in a global environment. 
 ## Credit Status
 One full credit
+
+<a href= "https://www.youtube.com/watch?v=ODylqIe3a1I"><img src="http://img.youtube.com/vi/ODylqIe3a1I/0.jpg" alt="CASE STUDY: How They REALLY BUILT the PYRAMIDS" width="100%"/></a>
+
 ## Learning Outcomes
 Upon successful completion of this subject the student will be able to:
 - Explain trends and differences in the global marketing environment in terms of economic, socio-cultural, political, legal and regulatory factors.
@@ -38,23 +42,6 @@ Upon successful completion of this subject the student will be able to:
 - Interact with others in groups or teams in ways that contribute to effective working relationships and the achievement of goals.
 - Manage the use of time and other resources to complete projects.
 - Take responsibility for one's own actions, decisions, and consequences.
-
-## Turn on Subtitles & Translations
-<img src="https://i.imgur.com/pUYmzMA.gif" alt="Turn On Subtitles" width="100%"/>
-
-## Goal
-
-# Title
-## SubTitle
-### Subheading
-#### SubSubheading
-##### Five
-###### Six
-####### Seven
-
-- **Bullet One
-- **Bullet Two
-- **Bullet Three
 
 **Highlight**
 
