@@ -1,4 +1,8 @@
-## The Things You Can Control vs. The Things You Cannot Control
+---
+id: overview
+title: Overview
+next: political
+---
 
 <a href= "http://www.youtube.com/watch?v=flj1rpx53yU"><img src="http://img.youtube.com/vi/flj1rpx53yU/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
 
