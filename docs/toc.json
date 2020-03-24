@@ -78,14 +78,79 @@
         "title": "Electricity VS Everyone"
       },
       {
-        "id": "development-server",
-        "slug": "/getting-started/development-server/",
-        "title": "Development Server"
+        "id": "cs-sogoshosha",
+        "slug": "/case-studies/cs-sogoshosha",
+        "title": "Sogoshosha"
       },
       {
-        "id": "deploying",
-        "slug": "/getting-started/deploying/",
-        "title": "Deploying"
+        "id": "cs-vr",
+        "slug": "/case-studies/cs-electricity",
+        "title": "VR"
+      },
+      {
+        "id": "cs-toqe",
+        "slug": "/case-studies/cs-toqe",
+        "title": "Tyranny of Quarterly Earnings"
+      },
+      {
+        "id": "cs-pp",
+        "slug": "/case-studies/cs-pp",
+        "title": "Push vs Pull"
+      },
+      {
+        "id": "cs-mr",
+        "slug": "/case-studies/cs-mr",
+        "title": "Market Research"
+      },
+      {
+        "id": "cs-wu",
+        "slug": "/case-studies/cs-wu",
+        "title": "The Value of a Queen's Education"
+      },
+      {
+        "id": "cs-maa",
+        "slug": "/case-studies/cs-maa",
+        "title": "The Value of Mastering An Art"
+      },
+      {
+        "id": "csmretruns",
+        "slug": "/case-studies/cs-mreturns",
+        "title": "Malthus Returns"
+      },
+      {
+        "id": "cs-cva",
+        "slug": "/case-studies/cs-cva",
+        "title": "Canadians VS Americans"
+      },
+      {
+        "id": "cs-ai",
+        "slug": "/case-studies/cs-ai",
+        "title": "At Our Wits End With AI"
+      },
+      {
+        "id": "cs-fabd",
+        "slug": "/case-studies/cs-fabd",
+        "title": "Fixing A Bad Marriage"
+      },
+      {
+        "id": "cs-pyr",
+        "slug": "/case-studies/cs-pyr",
+        "title": "How They REALLY Built The Pyramids"
+      },
+      {
+        "id": "cs-svb",
+        "slug": "/case-studies/cs-svb",
+        "title": "State VS Bitcoin"
+      },
+      {
+        "id": "cs-bfs",
+        "slug": "/case-studies/cs-bfs",
+        "title": "Blockchain For Startups"
+      },
+      {
+        "id": "cs-tonr",
+        "slug": "/case-studies/cs-tonr",
+        "title": "Tokenization of Natural Resources"
       }
     ]
   }
