@@ -70,12 +70,12 @@
     ]
   },
   {
-    "title": "Case Studiess",
+    "title": "Case Studies",
     "items": [
       {
-        "id": "installation",
-        "slug": "/getting-started/installation/",
-        "title": "Installation"
+        "id": "cs-electricity",
+        "slug": "/case-studies/cs-electricity",
+        "title": "Electricity VS Everyone"
       },
       {
         "id": "development-server",
