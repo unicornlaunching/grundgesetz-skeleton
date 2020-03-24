@@ -46,11 +46,9 @@ Upon successful completion of this subject the student will be able to:
 - Manage the use of time and other resources to complete projects.
 - Take responsibility for one's own actions, decisions, and consequences.
 
+## LET'S BEGIN
+
+[Overview](/cannot-control/overview)
+
 **Highlight**
-
 `permalink`
-
-[Netlify](https://www.netlify.com/)
-
-[Follow the documentation](/getting-started/installation)
-
