@@ -17,6 +17,6 @@ One of the key characteristics of the technological environment is that the infr
 
 The degree to which a region has an advanced  technological environment is often related to the health of the economic environment which would contain the companies that are making money, and paying taxes, to support the government funds spent on the infrastructure.
 [
-### How Might Air Canada respond to the Technological Environment to exploit one of the [four marketing opportunities](can-control/opportunity-types)?
+### How Might Air Canada respond to the Technological Environment to exploit one of the [four marketing opportunities](https://wonderful-lovelace-aa5bb3.netlify.com/can-control/opportunity-types)?
 
 <a href= "http://www.youtube.com/watch?v=S3J7LhgOiwU"><img src="http://img.youtube.com/vi/S3J7LhgOiwU/0.jpg" alt="Technological Environment" width="100%"/></a>
