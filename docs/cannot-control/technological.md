@@ -20,3 +20,11 @@ The degree to which a region has an advanced  technological environment is often
 ### How Might Air Canada respond to the Technological Environment to exploit one of the [four marketing opportunities](https://wonderful-lovelace-aa5bb3.netlify.com/can-control/opportunity-types)?
 
 <a href= "http://www.youtube.com/watch?v=S3J7LhgOiwU"><img src="http://img.youtube.com/vi/S3J7LhgOiwU/0.jpg" alt="Technological Environment" width="100%"/></a>
+
+[Google's Prolific Design Sprint for Rapid Prototyping & Product Development](https://www.gv.com/sprint/)
+
+<a href= "https://www.youtube.com/watch?v=peK4xFdji8I"><img src="http://img.youtube.com/vi/peK4xFdji8I/0.jpg" alt = "Google Venture Design Sprint" width="100%"></a>
+
+<a href= "http://www.youtube.com/watch?v=GVsC2nWEh-0"><img src="http://img.youtube.com/vi/GVsC2nWEh-0/0.jpg" alt = "Resumes Are Dead" width="100%"></a>
+
+
