@@ -1,6 +1,6 @@
 ---
 id: t-ge-cs-jibo
-title: Case Study: JIBO (GE)
+title: JIBO (GE)
 ---
 
 > “The natural formation of the country is the soldier’s best ally” - Sun Tzu
