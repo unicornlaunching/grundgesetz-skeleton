@@ -1,6 +1,6 @@
 ---
 id: t-ee-cs-tgwt
-title: Case Study: The Great Wealth Transfer (EE)
+title: The Great Wealth Transfer (EE)
 ---
 
 North America is experiencing the largest wealth transfer in history.
