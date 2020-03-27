@@ -1,4 +1,10 @@
-## Sociocultural Environment (Tutorial)
+---
+id: t-se-cs-mb
+title: Sociocultural Environment (Tutorial)
+prev: t-se-power.md
+next: t-se-cs-wdpb.md
+---
+
 ### Boom Bust & Echo
 
 > Demographics explains "two-thirds of everything". - Foote, Boom Bust & Echo
