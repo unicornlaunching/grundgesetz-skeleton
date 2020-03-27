@@ -176,7 +176,27 @@
         "id": "t-se-cs-wdpb",
         "slug": "/tutorial/t-se-cs-wdpb",
         "title": "Case Study: Why Do People Buy? (SE)"
-      }
+      },
+      {
+        "id": "t-plre-power",
+        "slug": "/tutorial/t-plre-power",
+        "title": "The Power of the Political Legal & Regulatory Environment"
+      },
+      {
+        "id": "t-te-power",
+        "slug": "/tutorial/t-te-power",
+        "title": "The Power of the Technological Environment"
+      },      
+      {
+        "id": "t-te-cs-tet",
+        "slug": "/tutorial/t-te-cs-tet",
+        "title": "Case Study: The Electricity Transfer (TE)"
+      },      
+      {
+        "id": "t-te-cs-ghc",
+        "slug": "/tutorial/t-te-cs-ghc",
+        "title": "Case Study: Gartner Hype Cycle (TE)"
+      }      
     ]
   } 
 ]
