@@ -1,8 +1,8 @@
 ---
 id: t-se-cs-mb
 title: Sociocultural Environment (Tutorial)
-prev: t-se-power.md
-next: t-se-cs-wdpb.md
+prev: t-se-power
+next: t-se-cs-wdpb
 ---
 
 ### Boom Bust & Echo
