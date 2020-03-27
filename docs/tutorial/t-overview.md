@@ -1,7 +1,7 @@
 ---
 id: t-overview
 title: Tutorial Overview
-next: t-se-power.md
+next: t-se-power
 ---
 
 ### U of T's Professor Richardson is the epitome of a globe-trotting White Hat Digital Mercenary.In no particular order:
