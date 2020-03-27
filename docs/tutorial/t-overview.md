@@ -4,7 +4,9 @@ title: Tutorial Overview
 next: t-se-power
 ---
 
-### U of T's Professor Richardson is the epitome of a globe-trotting White Hat Digital Mercenary.In no particular order:
+## U of T's Professor Richardson is the epitome of a globe-trotting White Hat Digital Mercenary.
+
+In no particular order:
 
 - Former Executive Director of the Canada-Japan Trade Council
 
@@ -18,7 +20,7 @@ next: t-se-power
 
 - He's pretty much the International James Bourne of Business. In 2005, Professor Richardson hired me as his Teaching Assistant, and my life would never be the same.
 
-### Learning Objectives
+## Learning Objectives
 
 - The objectives for this unit are to help the reader understand:
 
@@ -30,7 +32,9 @@ next: t-se-power
 
 - When the reader has mastered the art of the Six Environment Theory, they will be able to predict billion-dollar product categories and emerging industries by anticipating Problems Worth Solving and Jobs To Be Done.
 
-### Problems Worth Solving & Jobs-to-be-Done
+- Michael Jagdeo
+
+## Problems Worth Solving & Jobs-to-be-Done
 
 Today, there are two questions that haunt the dreams of every disruptive VC, Founder, Designer, Engineer, and Salesperson:
 
@@ -44,9 +48,11 @@ Unfortunately, there isn't any literature on how Problems Worth Solving and Jobs
 
 In my opinion, business has already been solved. Unfortunately, too much time is spent studying and applying disciplines in the wrong order.
 
-### How Might We Forecast Problems Worth Solving & Jobs To Be Done?
+## How Might We Forecast Problems Worth Solving & Jobs To Be Done?
 
-It stands to reason that if we could PREDICT which Problems Worth Solving and Jobs To Be Done are worth solving ahead of time, we will rescue our time, energy, and budget from building perfect solutions nobody cares about.In a sentence, Professor Witiger's Six-Environment Theory is the one framework that can help disruptive Founders, Designers, Engineers, and Salespeople make rapid, high-impact, well-informed, decisions from moment to moment.The Six Environments that work hand-in-hand to produce Problems Worth Solving and Jobs To Be Done are as follows:
+###It stands to reason that if we could PREDICT which Problems Worth Solving and Jobs To Be Done are worth solving ahead of time, we will rescue our time, energy, and budget from building perfect solutions nobody cares about.
+
+In a sentence, Professor Witiger's Six-Environment Theory is the one framework that can help disruptive Founders, Designers, Engineers, and Salespeople make rapid, high-impact, well-informed, decisions from moment to moment.The Six Environments that work hand-in-hand to produce Problems Worth Solving and Jobs To Be Done are as follows:
 
 - Political / Legal / Regulatory
 - Economic
@@ -57,4 +63,4 @@ It stands to reason that if we could PREDICT which Problems Worth Solving and Jo
 
 PWS/JTBDs emerge from the intersection of the Six Environments in time. For the nerds, check out the idea of a confluence.
 
-In other words, by understanding the most important trends in each of the Six Environments, you can make well-informed, timely, profitable decisions in real-time.
+## In other words, by understanding the most important trends in each of the Six Environments, you can make well-informed, timely, profitable decisions in real-time.
