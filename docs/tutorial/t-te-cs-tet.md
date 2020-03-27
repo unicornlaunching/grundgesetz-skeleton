@@ -2,7 +2,7 @@
 id: t-te-cs-tet
 title: The Electricity Transfer
 prev: t-te-power
-next: id: t-te-cs-ghc
+next: t-te-cs-ghc
 ---
 
 ## In the early days of electricity, Chief Operating Officers had to build and operate their own electric generators in order to power their manufacturing plants.
