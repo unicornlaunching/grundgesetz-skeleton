@@ -198,8 +198,8 @@
         "title": "Case Study: Gartner Hype Cycle (TE)"
       },        
       {
-        "id": "t-ge-powero",
-        "slug": "/tutorial/t-ge-powero",
+        "id": "t-ge-power",
+        "slug": "/tutorial/t-ge-power",
         "title": "The Power of The GE"
       },        
       {
@@ -224,7 +224,7 @@
       },
       {
         "id": "t-ee-cs-sdd",
-        "slug": "/tutorial/t-ee-cs-sdd",
+        "slug": "/tutorial/t-ce-cs-sdd",
         "title": "Case Study: Sweet Drink Dominance (CE)"
       }          
     ]
