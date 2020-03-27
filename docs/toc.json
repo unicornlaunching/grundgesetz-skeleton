@@ -153,5 +153,30 @@
         "title": "Tokenization of Natural Resources"
       }
     ]
-  }
+  },
+    {
+    "title": "Tutorial",
+    "items": [
+      {
+        "id": "4ps",
+        "slug": "/can-control/4ps",
+        "title": "Four Ps of Marketing"
+      },
+      {
+        "id": "gopst",
+        "slug": "/can-control/gopst",
+        "title": "Goals Objectives Plans Strategies Tactics"
+      },
+      {
+        "id": "opportunity-types",
+        "slug": "/can-control/opportunity-types",
+        "title": "Four Types of Marketing Opportunities"
+      },
+      {
+        "id": "co-tms",
+        "slug": "/can-control/co-tms",
+        "title": "Three Company Orientations & Target Market Segmentation"
+      }
+    ]
+  }  
 ]
