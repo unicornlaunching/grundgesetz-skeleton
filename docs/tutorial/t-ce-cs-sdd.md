@@ -1,6 +1,6 @@
 ---
 id: t-ee-cs-sdd
-title: Case Study: Sweet Drink Dominance (CE)
+title: Sweet Drink Dominance (CE)
 ---
 
 ### Snapple vs Coke
