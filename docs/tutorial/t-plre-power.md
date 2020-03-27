@@ -1,7 +1,7 @@
 ---
 id: t-plre-power
 title: The Power of the Political Legal & Regulatory Environment
-prev: t-se-cs-wdpb.md
+prev: t-se-cs-wdpb
 next: 
 ---
 
