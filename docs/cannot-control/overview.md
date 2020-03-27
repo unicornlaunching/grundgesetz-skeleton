@@ -29,3 +29,8 @@ The 4P's are things you can change - you can adapt the product, change the price
 - Political / Legal / Regulatory 
 - Sociocultural / Ethnic / Linguistic 
 - Technological
+
+## Watch all the videos in a playlist
+
+<a href= "https://www.youtube.com/watch?v=flj1rpx53yU&list=PL2PXaLXFkx9-CxmHVlhPSw1cUTQnUam7t"><img src="http://img.youtube.com/vi/flj1rpx53yU/0.jpg" alt="The Fourth Industrial MBA" width="100%"/></a>
+
