@@ -11,6 +11,6 @@ Typically, the Geographic Environment is completely ignored by software companie
 
 For example, MIT's beautifully-designed social robot, JIBO, was hampered by communication delays between its servers in the US and their customers in Europe.
 
-4 years that I wait after your jibo and still nothing received, I can not even connect to jibo acount, my google home will surely best all the way. …… give me back my money… (Source)
+> 4 years that I wait after your jibo and still nothing received, I can not even connect to jibo acount, my google home will surely best all the way. …… give me back my money…
 
 JIBO's robot couldn't receive, communicate, and respond fast enough for Europe and Asia.
