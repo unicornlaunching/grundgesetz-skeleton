@@ -186,12 +186,7 @@
         "id": "t-te-power",
         "slug": "/tutorial/t-te-power",
         "title": "The Power of the Technological Environment"
-      },      
-      {
-        "id": "t-te-cs-tet",
-        "slug": "/tutorial/t-te-cs-tet",
-        "title": "Case Study: The Electricity Transfer (TE)"
-      },      
+      },           
       {
         "id": "t-te-cs-ghc",
         "slug": "/tutorial/t-te-cs-ghc",
