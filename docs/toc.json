@@ -196,7 +196,37 @@
         "id": "t-te-cs-ghc",
         "slug": "/tutorial/t-te-cs-ghc",
         "title": "Case Study: Gartner Hype Cycle (TE)"
-      }      
+      },        
+      {
+        "id": "t-ge-powero",
+        "slug": "/tutorial/t-ge-powero",
+        "title": "The Power of The GE"
+      },        
+      {
+        "id": "t-ge-cs-jibo",
+        "slug": "/tutorial/t-ge-cs-jibo",
+        "title": "Case Study: JIBO (GE)"
+      },                    
+      {
+        "id": "t-ee-power",
+        "slug": "/tutorial/t-ee-power",
+        "title": "The Power of The EE"
+      },   
+      {
+        "id": "t-ee-cs-tgwt",
+        "slug": "/tutorial/t-ee-cs-tgwt",
+        "title": "Case Study: The Great Wealth Transfer (EE)"
+      },
+      {
+        "id": "t-ce-power",
+        "slug": "/tutorial/t-ce-power",
+        "title": "The Power of the CE"
+      },
+      {
+        "id": "t-ee-cs-sdd",
+        "slug": "/tutorial/t-ee-cs-sdd",
+        "title": "Case Study: Sweet Drink Dominance (CE)"
+      }          
     ]
   } 
 ]
