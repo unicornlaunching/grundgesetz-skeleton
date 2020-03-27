@@ -1,3 +1,10 @@
+---
+id: t-se-cs-wdpb
+title: Why Do People Buy?
+prev: t-se-cs-mb.md
+next: 
+---
+
 ## Sociocultural Environment (Tutorial)
 ### Why Do People Buy?
 
