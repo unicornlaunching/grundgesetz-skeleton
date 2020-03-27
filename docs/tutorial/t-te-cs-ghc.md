@@ -1,8 +1,7 @@
 ---
 id: t-te-cs-ghc
 title: The Power of the Political Legal & Regulatory Environment
-prev: t-se-cs-wdpb.md
-next: 
+prev: t-se-cs-wdpb
 ---
 
 > "When new technologies make bold promises, how do you discern the hype from what's commercially viable? And when will such claims pay off, if at all? Gartner Hype Cycles provide a graphic representation of the maturity and adoption of technologies and applications, and how they are potentially relevant to solving real business problems and exploiting new opportunities. Gartner Hype Cycle methodology gives you a view of how a technology or application will evolve over time, providing a sound source of insight to manage its deployment within the context of your specific business goals." (Gartner)
