@@ -2,7 +2,6 @@
 id: t-plre-power
 title: The Power of the Political Legal & Regulatory Environment
 prev: t-se-cs-wdpb
-next: 
 ---
 
 Uber, the revolutionary ride-sharing app, would NEVER have become the global powerhouse it is today without the savvy legal maneuverings of former CEO, Travis Kalanick.
