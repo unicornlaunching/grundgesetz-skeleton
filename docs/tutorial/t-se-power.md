@@ -1,8 +1,10 @@
 ## The Power of the Sociocultural Environment
 
+<img src="https://i.imgur.com/Qmwkgka.png" width="100%">
+
 ### When US & Canadian soldiers returned from World War II, they were exhausted, shell-shocked, and happy to be alive.
 #### Most of all, they were eager to reunite with their loved ones, people they thought they'd never see again.
-##### Naturally, when the soldiers stepped foot on land, the reuniting began in full swing, sparking a boom in baby-making activities throughout the continent. In fact, so many babies were born between 1944 and 1955 that they were called the Baby Boomers.
+#### Naturally, when the soldiers stepped foot on land, the reuniting began in full swing, sparking a boom in baby-making activities throughout the continent. In fact, so many babies were born between 1944 and 1955 that they were called the Baby Boomers.
 
 In his groundbreaking work, Boom Bust & Echo, Foote showed how the largest population group in the US - these very Baby Boomers - influenced the invention of billion-dollar giants in trillion-dollar industries.
 
