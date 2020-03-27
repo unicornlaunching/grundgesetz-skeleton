@@ -158,25 +158,25 @@
     "title": "Tutorial",
     "items": [
       {
-        "id": "4ps",
-        "slug": "/can-control/4ps",
-        "title": "Four Ps of Marketing"
+        "id": "t-overview",
+        "slug": "/tutorial/t-overview",
+        "title": "Overview"
       },
       {
-        "id": "gopst",
-        "slug": "/can-control/gopst",
-        "title": "Goals Objectives Plans Strategies Tactics"
+        "id": "t-se-power",
+        "slug": "/tutorial/t-se-power",
+        "title": "The Power of the SE"
       },
       {
-        "id": "opportunity-types",
-        "slug": "/can-control/opportunity-types",
-        "title": "Four Types of Marketing Opportunities"
+        "id": "t-se-cs-mb",
+        "slug": "/tutorial/t-se-cs-mb",
+        "title": "Case Study: Mobile Banking (SE)"
       },
       {
-        "id": "co-tms",
-        "slug": "/can-control/co-tms",
-        "title": "Three Company Orientations & Target Market Segmentation"
+        "id": "t-se-cs-wdpb",
+        "slug": "/tutorial/t-se-cs-wdpb",
+        "title": "Case Study: Why Do People Buy? (SE)"
       }
     ]
-  }  
+  } 
 ]
