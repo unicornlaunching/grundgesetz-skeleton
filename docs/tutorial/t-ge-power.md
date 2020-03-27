@@ -13,7 +13,11 @@ In the city's 97-page pitch, the main value of Toronto as Amazon's #HQ2 is the m
 
 However, the true value that Toronto had to offer Amazon was completely missed in the 97-page pitch. Why? The Geographic Environment is always ignored by people in tech.
 
-In Toronto's 97-page pitch for Amazon #HQ2, they spent pages and pages on Toronto's talent. As a Headhunter, I was happy to see them put Toronto's talent on the map.However, the true value of Toronto as Amazon's second HQ was completely missed.You see, as train travel becomes increasingly faster, the geographic distance between Waterloo, Ottawa, Montreal and Toronto becomes increasingly negligible. Whether it's the Maglev or the Hyperloop, the improvement of train technology will convert Toronto's talent pool into Eastern Canada's talent pool.So why didn't the Toronto pitch include the fact that:
+In Toronto's 97-page pitch for Amazon #HQ2, they spent pages and pages on Toronto's talent. As a Headhunter, I was happy to see them put Toronto's talent on the map.
+
+However, the true value of Toronto as Amazon's second HQ was completely missed.You see, as train travel becomes increasingly faster, the geographic distance between Waterloo, Ottawa, Montreal and Toronto becomes increasingly negligible. 
+
+Whether it's the Maglev or the Hyperloop, the improvement of train technology will convert Toronto's talent pool into Eastern Canada's talent pool.So why didn't the Toronto pitch include the fact that:
 - There isn’t a city in the US that can hold a candle the combined intellectual capital shared between Toronto + Waterloo + Ottawa + Montreal.
 - Google, Samsung, Facebook, AND Microsoft have already invested millions in developing and hiring Artificial Intelligence Engineers in Montreal?
 - Ubisoft, the fourth largest video game manufacturer in North America, is investing $330 million in Montreal?
