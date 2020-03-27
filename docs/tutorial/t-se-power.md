@@ -1,3 +1,9 @@
+---
+id: t-se-powe
+title: The Power of the Sociocultural Environment
+next: t-se-cs-mb
+---
+
 ## The Power of the Sociocultural Environment
 
 <img src="https://i.imgur.com/Qmwkgka.png" width="100%">
