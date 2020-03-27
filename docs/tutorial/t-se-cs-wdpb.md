@@ -1,8 +1,7 @@
 ---
 id: t-se-cs-wdpb
 title: Why Do People Buy?
-prev: t-se-cs-mb.md
-next: 
+prev: t-se-cs-mb
 ---
 
 ## Sociocultural Environment (Tutorial)
