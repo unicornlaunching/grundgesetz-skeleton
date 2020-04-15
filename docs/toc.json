@@ -151,6 +151,11 @@
         "id": "cs-tonr",
         "slug": "/case-studies/cs-tonr",
         "title": "Tokenization of Natural Resources"
+      },
+       {
+        "id": "cs-ccsm",
+        "slug": "/case-studies/cs-ccsm",
+        "title": "Effects Of Climate Change On The Shipping Industry"
       }
     ]
   },
