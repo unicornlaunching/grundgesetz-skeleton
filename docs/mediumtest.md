@@ -10,14 +10,7 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/AndrewYang?ref_src=twsrc%5Etfw">@AndrewYang</a> is the only candidate with a sense of humor.</p>&mdash; So you want to (@attractfunding) <a href="https://twitter.com/attractfunding/status/1143182420537151489?ref_src=twsrc%5Etfw">June 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
-
-<iframe width="1517" height="717" src="https://www.youtube.com/embed/5Q6sDKvwdO0" frameborder="0"></iframe>
-
-
-
-
-{{< tweet 877500564405444608 >}}
+<a href= "https://www.youtube.com/embed/5Q6sDKvwdO0"><img src="http://img.youtube.com/vi/5Q6sDKvwdO0/0.jpg" alt="Sogoshosha" width="100%"/></a>
 
  <iframe src="https://medium.com/media/066c9b2c121fa4a4bb3d210649947200" frameborder=0></iframe>
 
