@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+
 <script>
 function myMap() {
 var mapProp= {
@@ -12,7 +13,6 @@ var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
   </head>
 <body>
 
