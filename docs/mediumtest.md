@@ -7,22 +7,8 @@
 
 ## Step 0: Rising Star Breaks Through the Difference Threshhold
 
+{% medium https://medium.com/media/505089479fb176b641329daf8922366c %}
 
-{% twitter 877500564405444608 %}
-
-
-{::options parse_block_html="false" /}
-
-<div class="center">
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/gitlab">@gitlab</a> for joining <a href="https://twitter.com/RailsGirlsCluj">@RailsGirlsCluj</a>! <a href="https://t.co/NOoiqDWKVY">pic.twitter.com/NOoiqDWKVY</a></p>&mdash; RailsGirlsCluj (@RailsGirlsCluj) <a href="https://twitter.com/RailsGirlsCluj/status/784847271645028352">October 8, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
-
-
-
-https://twitter.com/spf13/status/877500564405444608
 {{< tweet 877500564405444608 >}}
 
  <iframe src="https://medium.com/media/066c9b2c121fa4a4bb3d210649947200" frameborder=0></iframe>
