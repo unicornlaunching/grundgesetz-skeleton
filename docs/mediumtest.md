@@ -8,7 +8,7 @@
 ## Step 0: Rising Star Breaks Through the Difference Threshhold
 
 https://twitter.com/spf13/status/877500564405444608
-
+{{< tweet 877500564405444608 >}}
 
  <iframe src="https://medium.com/media/066c9b2c121fa4a4bb3d210649947200" frameborder=0></iframe>
 
