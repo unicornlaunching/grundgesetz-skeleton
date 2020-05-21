@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
-<body>
-
-<h1>My First Google Map</h1>
-
-<div id="googleMap" style="width:100%;height:400px;"></div>
-
+  <head>
+    
 <script>
 function myMap() {
 var mapProp= {
@@ -17,6 +13,13 @@ var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 </script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+  </head>
+<body>
+
+<h1>My First Google Map</h1>
+
+<div id="googleMap" style="width:100%;height:400px;"></div>
+
 
 </body>
 </html>
