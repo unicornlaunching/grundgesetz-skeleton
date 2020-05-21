@@ -7,6 +7,8 @@
 
 ## Step 0: Rising Star Breaks Through the Difference Threshhold
 
+<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 500px; height: 198px; display: block; flex-grow: 1;" title="Twitter Tweet" src="https://platform.twitter.com/embed/index.html?dnt=true&amp;embedId=twitter-widget-0&amp;frame=false&amp;hideCard=false&amp;hideThread=true&amp;id=1143182420537151489&amp;lang=en&amp;origin=https%3A%2F%2Fmedium.com%2Fmedia%2F066c9b2c121fa4a4bb3d210649947200&amp;theme=light&amp;widgetsVersion=c4096c4b%3A1589303485003&amp;width=500px" data-tweet-id="1143182420537151489">
+
  <iframe src="https://medium.com/media/066c9b2c121fa4a4bb3d210649947200" frameborder=0></iframe>
 
  <iframe src="https://medium.com/media/505089479fb176b641329daf8922366c" frameborder=0></iframe>
